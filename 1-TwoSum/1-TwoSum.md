@@ -18,19 +18,3 @@ target - num1 = num2
 # Code
 
 Решение на [java](1-TwoSum/1-TwoSum.java), [c++](1-TwoSum/1-TwoSum.cpp), [python](1-TwoSum/1-TwoSum.py)
-
-
-
-
-```python
-# Временная сложность О(n)
-# Пространственная сложность О(n)
-class Solution(object):
-    def twoSum(self, nums, target):
-        res = {}
-        for i, num in enumerate(nums):
-            a = target - num
-            if a in res:
-                return [res[a], i]
-            res[num] = i
-```
