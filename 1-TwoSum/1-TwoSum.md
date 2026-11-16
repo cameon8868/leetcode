@@ -18,3 +18,5 @@ target - num1 = num2
 # Code
 
 Решение на [java](1-TwoSum/1-TwoSum.java), [c++](1-TwoSum/1-TwoSum.cpp), [python](1-TwoSum/1-TwoSum.py)
+
+Можно заметить, что в java вернуть массив можно только через `new int[] {}`. Тоесть вытаскивая каждый элемент массива отдельно.

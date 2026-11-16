@@ -24,4 +24,6 @@ y_{n+1} = y_n − (y_n² − x) / (2y_n)
 
 ## Code
 
-Код на [java](69-Sqrt(x)/69-Sqrt(x).java)
+Код на [java](69-Sqrt(x)/69-Sqrt(x).java), [C++](69-Sqrt(x)/69-Sqrt(x).cpp)
+
+Разницы между java и C++ нет, синтаксис языков одинаковый.
